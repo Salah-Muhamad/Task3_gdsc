@@ -1,0 +1,205 @@
+.all {
+    width: 100%;
+    height:90vh;
+    background-image: url("1000_F_563277368_thsiYO5MlAwUzQU34wUtbac2F2MrrAcs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+}
+
+.all .logo {
+    margin-left: 50px;
+    float: left;
+}
+.all .logo img {
+    width: 100px;
+}
+.all ul {
+    list-style: none;
+    float: right;
+}
+.all ul li {
+    float: left;
+    margin-right: 50px;
+}
+.all ul li a {
+    color: white;
+    text-decoration: none;
+}
+.all ul li i {
+    font-size: 12px;
+}
+.clr {
+    clear: both;
+}
+.all .p1 {
+    text-align: center;
+    margin-top: 100px;
+}
+.all h1 {
+    text-align: center;
+    font-size: 60px;
+}
+.all .p2 {
+    text-align: center;
+    color: rgb(200, 199, 199);
+}
+.all .btns {
+    text-align: center;
+    margin-top: 30px;
+}
+.all .btns button {
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.all .btns .btn1 {
+    background-color: rgb(142, 119, 84);
+    color: white;
+    border-color: transparent;
+}
+.all .btns .btn2 {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    margin-left: 10px;
+}
+/* Section 2 */
+.sec2 {
+    margin: 30px;
+}
+.sec2 .img2 {
+    float: left;
+    width: 50%;
+}
+.sec2 .img2 img {
+    width: 85%;
+}
+.sec2 .content2 {
+    float: right;
+    width: 50%;
+}
+.content2 .p1 ,
+.content2 h3 {
+    text-align: center;
+}
+.content2 .sp {
+    margin-bottom: 10px;
+}
+.content2 i {
+    color: rgb(142, 119, 84);
+    margin-right: 10px;
+    font-size:20px;
+}
+.content2 p {
+    color: gray;
+}
+/* Section 3 */
+.sec3 {
+    background-color: #eee;
+    margin: 20px 0;
+    padding: 20px;
+    
+}
+.sec3 .content3 {
+    float: left;
+    width: 60%;
+    text-align: center;
+}
+.sec3 .content3 p {
+    color: gray;
+}
+.sec3 .content3 .p1 {
+    margin-bottom: 40px
+}
+.sec3 .img3{
+    float: right;
+    width: 40%;
+}
+.sec3 .img3 img {
+    width: 85%;
+}
+/* Section 4*/
+.sec4{
+    margin: 50px;
+}
+.sec4 .content4 {
+    float: left;
+    width: 60%;
+}
+.sec4 .content4 p{
+    color: gray;
+}
+.sec4 .content4 .cntr{
+    text-align: center;
+}
+.sec4 .frame{
+    float: right;
+    width: 40%;
+}
+.content4 .sp {
+    margin-bottom: 10px;
+}
+.content4 i {
+    color: rgb(142, 119, 84);
+    margin-right: 10px;
+    font-size:20px;
+}
+.sec4 .frame iframe {
+    height: 350px;
+}
+/* Section 5 */
+.sec5 {
+    background-color: #eee;
+    margin: 30px 0 0;
+    padding: 30px;
+}
+.sec5 .caption {
+    text-align: center;
+}
+.sec5 .caption p {
+    color: gray;
+}
+.sec5 .cat {
+    float: left;
+    width: calc(100% / 3);
+    text-align: center;
+}
+.sec5 .cat p {
+    color: gray;
+}
+.sec5 .cat img {
+    width: 90%;
+}
+/* Footer */
+footer {
+    background-color: rgb(64, 61, 56);
+    color: rgb(181, 179, 179);
+    margin-top: 0;
+    padding: 20px;
+}
+footer .info {
+    float: left;
+    width: 24%;
+    margin-left: 10px;
+}
+.line {
+    background-color: rgb(46, 44, 40);
+    width: 100%;
+    height: 1px;
+}
+footer i {
+    margin-right: 10px;
+}
+.final {
+    background-color: rgb(46, 44, 40);
+    color: rgb(181, 179, 179);
+    text-align: center;
+    padding: 20px;
+}
+.icons i {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
